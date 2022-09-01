@@ -1,0 +1,25 @@
+# Branch IO, allows you to automatically convert your email links into multi-platform deep links that take app users directly to content in your mobile app, while maintaining the same web experience for desktop and mobile users without the app.
+cdn.branch.io
+cloudphoto-dra.cloud.dbankcloud.com
+coupon-dra.iap.cloud.huawei.asia
+dnkeeper.platform.dbankcloud.cn
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.eu
+grs.platform.dbankcloud.ru
+httpdns.huaweicloud.com
+hwid-dra.platform.hicloud.com
+hwid.platform.hicloud.com
+hw.restlbs.map.wechatos.net
+iap-orders-dra.cloud.huawei.asia
+iap-pay-dra.cloud.huawei.asia
+iap-subscr-dra.cloud.huawei.asia
+# Analytics
+mobile-http-intake.logs.datadoghq.com
+nsp-hicloud-cloudbackup-p01-dra.obs.ap-southeast-3.myhuaweicloud.com
+nsp-hicloud-cloudphoto-p01-dra.obs.ap-southeast-3.myhuaweicloud.com
+oauth-login-dra.platform.dbankcloud.com
+quota-dra.cloud.dbankcloud.cn
+sdkserver-dra.op.dbankcloud.com
+vfq2nsli1v76fglgdl9puq0cd.litix.io
